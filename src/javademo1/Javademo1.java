@@ -20,5 +20,14 @@ public class Javademo1 {
     
     //sout
     System.out.println("Hello World!");
+    
+    printname();
     }
-}
+    
+    private static void printname() {
+        System.out.println("Linus Torvald");
+               }
+    }
+    
+
+ 
